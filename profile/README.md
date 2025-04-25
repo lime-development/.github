@@ -12,5 +12,5 @@ Lime is the next evolution of decentralized meme and social coins. Unlike tradit
 
 ## Contact
 For inquiries or suggestions, reach out to us:
-- 📧 Email: mail@vorobevsa.com
+- 📧 Email: mail@lime.dev
 - 🌐 Website: [lime.dev](https://lime.dev)
